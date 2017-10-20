@@ -1,7 +1,7 @@
 {
-  "name": "aprendendo-tdd",
+  "name": "spotify-wrapper",
   "version": "1.0.0",
-  "description": "Aprendendo TDD",
+  "description": "Spotify Wrapper",
   "main": "index.js",
   "eslintConfig": {
     "env": {
@@ -32,14 +32,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leo-torrez/aprendendo-tdd.git"
+    "url": "git+https://github.com/leo-torrez/spotify-wrapper.git"
   },
   "author": "Léo Torrez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leo-torrez/aprendendo-tdd/issues"
+    "url": "https://github.com/leo-torrez/spotify-wrapper/issues"
   },
-  "homepage": "https://github.com/leo-torrez/aprendendo-tdd#readme",
+  "homepage": "https://github.com/leo-torrez/spotify-wrapper#readme",
   "devDependencies": {
     "babel-preset-env": "^1.6.1",
     "babel-register": "^6.26.0",
